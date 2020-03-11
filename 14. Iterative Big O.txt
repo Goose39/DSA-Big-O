@@ -1,0 +1,7 @@
+1. O(n) - Linear
+2. O(n) - Linear
+3. O(n) - Linear
+4. O(n) - Linear
+5. O(n) - Linear
+6. O(n) - Linear
+7. O(n) - Linear

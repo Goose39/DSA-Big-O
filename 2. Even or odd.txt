@@ -1,0 +1,5 @@
+O(1) - Constant Time Complexity
+
+- Time will stay consistent as there is only on test to be done on the input. 
+The number is tested to see if it is even (return true), if it fails then the number is odd (return false). 
+

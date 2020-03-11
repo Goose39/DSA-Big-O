@@ -1,0 +1,4 @@
+O(n) - Linear Time Compexity
+
+- Function runs through the entire array and checks each value in sequence. 
+  As the input size increase so the time with increase linearly. 

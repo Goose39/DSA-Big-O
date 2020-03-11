@@ -1,0 +1,3 @@
+O(log n)
+
+Increase in input size has very little effect on the time complexity as the input size is halved on each itteration.

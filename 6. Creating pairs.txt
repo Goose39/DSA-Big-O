@@ -1,0 +1,4 @@
+O(n) - Linear Complexity
+
+- Function runs through the entire array sequentially and pairs the selected value with the values preceding it. 
+i.e. it is fundamentaly different to nested loop that would have O(n^2) complexity. 

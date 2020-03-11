@@ -1,0 +1,5 @@
+Algorithm checks if the input is not an interger (whole number) that is > 2
+
+Time Complexity: O(n) - Time complexity will increase linearly as the input gets larger. 
+
+

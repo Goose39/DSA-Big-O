@@ -1,0 +1,3 @@
+O(1)
+
+- Algorithm only have on step, it outputs a single value in one step, irrespctive of the input size.

@@ -1,0 +1,5 @@
+This algorithm is creating an array of odd numbers in sequential order
+
+Time Complexity = O(n) - Linear Complexity
+
+- Function is running through the entire array sequentially. As the input size increases so will time increase linearly.  

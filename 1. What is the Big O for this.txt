@@ -1,0 +1,5 @@
+1) O(1) - constant time complexity. 
+  - only one action, irrespective of the size of the group
+2) O(n) - Linear complexity. 
+  - time complexity will increace linearly as the size of the group increases
+
